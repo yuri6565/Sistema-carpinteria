@@ -331,16 +331,7 @@ public class Principal extends javax.swing.JFrame {
                this.seis.setSelected(false);
                   this.siete.setSelected(false);
                   this.dos.setSelected(true);
-                  
-                  
-     inventario es = new inventario();
-        es.setSize(890,690 );
-        es.setLocation(0,0);
-        
-        contenedor.removeAll();
-        contenedor.add(es, BorderLayout.CENTER);
-        contenedor.revalidate();
-        contenedor.repaint();
+
           }            
     }//GEN-LAST:event_dosActionPerformed
 
