@@ -26,12 +26,18 @@ public class Clientesta extends javax.swing.JPanel {
     // <editor-fold defaultstate="collapsed" desc="Generated Code">//GEN-BEGIN:initComponents
     private void initComponents() {
 
+        jToggleButton1 = new javax.swing.JToggleButton();
+
         setBackground(new java.awt.Color(29, 30, 51));
         setPreferredSize(new java.awt.Dimension(1290, 690));
         setLayout(new org.netbeans.lib.awtextra.AbsoluteLayout());
+
+        jToggleButton1.setText("jToggleButton1");
+        add(jToggleButton1, new org.netbeans.lib.awtextra.AbsoluteConstraints(250, 110, -1, -1));
     }// </editor-fold>//GEN-END:initComponents
 
 
     // Variables declaration - do not modify//GEN-BEGIN:variables
+    private javax.swing.JToggleButton jToggleButton1;
     // End of variables declaration//GEN-END:variables
 }
