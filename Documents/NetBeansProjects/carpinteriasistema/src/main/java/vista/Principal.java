@@ -206,10 +206,10 @@ public class Principal extends javax.swing.JFrame {
         );
         contenedorLayout.setVerticalGroup(
             contenedorLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGap(0, 690, Short.MAX_VALUE)
+            .addGap(0, 730, Short.MAX_VALUE)
         );
 
-        jPanel1.add(contenedor, new org.netbeans.lib.awtextra.AbsoluteConstraints(260, 80, 1290, 690));
+        jPanel1.add(contenedor, new org.netbeans.lib.awtextra.AbsoluteConstraints(260, 80, 1290, 730));
         contenedor.getAccessibleContext().setAccessibleName("");
 
         javax.swing.GroupLayout layout = new javax.swing.GroupLayout(getContentPane());
@@ -224,7 +224,7 @@ public class Principal extends javax.swing.JFrame {
             layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGroup(layout.createSequentialGroup()
                 .addContainerGap()
-                .addComponent(jPanel1, javax.swing.GroupLayout.DEFAULT_SIZE, 821, Short.MAX_VALUE)
+                .addComponent(jPanel1, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
                 .addContainerGap())
         );
 
